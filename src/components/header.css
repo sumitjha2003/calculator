@@ -1,0 +1,17 @@
+header {
+    background-color: #353d51;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+header .calc {
+    color: aqua;
+    position: relative;
+    left: 44%;
+    font-family: cursive;
+}
+
+  
+  
